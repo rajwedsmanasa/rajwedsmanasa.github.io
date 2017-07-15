@@ -32,11 +32,11 @@ input[type="button"],input[type="submit"],li.parallelogram{
 	-ms-transition:0.5s all;
 }
 h1,h2,h3,h4,h5,h6{
-   margin:0;		
+   margin:0;
    font-family: 'GreatVibes-Regular';
    font-weight:400;
 
-}	
+}
 p{
 	margin:0;
 	font-family: 'Open Sans', sans-serif;
@@ -246,7 +246,7 @@ nav a:focus {
     background: #fff;
 }
 .banner{
-    background: url(../images/banner.jpg) no-repeat center top;
+    background: url(../images/trad_hands.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1100,7 +1100,7 @@ span.devide-line {
 	padding: 0px;
 	text-align: left;
 	position: relative;
-	
+
 }
 .grid figure {
 	margin: 0;
@@ -1171,7 +1171,7 @@ span.devide-line {
 .categorie-grids {
 	margin-top:3em;
 }
-.cate-grid{	
+.cate-grid{
 	background-size: 100%;
     margin: 0 10px;
     width: 31%;
@@ -1184,7 +1184,7 @@ span.devide-line {
 	font-weight: 600;
 	letter-spacing: 1px;
 	margin-bottom: 13px;
-} 
+}
 .cate-grid p {
   color: #fff;
   font-size: 1.5em;
@@ -1270,7 +1270,7 @@ address  a:hover {
 }
 .more-address{
     padding: 1em 0;
-} 
+}
 abbr[title], abbr[data-original-title] {
     cursor: help;
     border-bottom: none!important;
@@ -2082,7 +2082,7 @@ ul.bottom i {
 	.header-top {
 		padding: 1.2em 0 0 0;
 		}
-	
+
 	.cl-effect-7 a::before, .cl-effect-7 a::after {
     position: absolute;
     top: 100%;
