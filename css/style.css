@@ -529,6 +529,11 @@ select option {
 	margin-left: -26px;
 }
 
+.welcome-top img {
+
+    margin-bottom : 50px;
+}
+
 .welcome-top h1 {
 
     margin-top: 26px;
