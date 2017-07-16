@@ -521,10 +521,12 @@ select option {
     padding: 5em 0 5em 26em;
 }
 .welcome-top h2 {
-    text-align: center;
+
     margin-top: 26px;
     font-size:2.7em;
-      color: #15191c;
+	color: #f067ae;
+	margin-right: 26px;
+	margin-left: -26px;
 }
 .welcome-top p {
         font-size: 0.9em;
