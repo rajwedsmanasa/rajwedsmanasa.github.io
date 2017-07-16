@@ -528,6 +528,17 @@ select option {
 	margin-right: 26px;
 	margin-left: -26px;
 }
+
+.welcome-top h1 {
+
+    margin-top: 26px;
+    font-size:2.7em;
+	color: #f067ae;
+	margin-right: 26px;
+	margin-left: -26px;
+	margin-bottom: 26px;
+}
+
 .welcome-top p {
         font-size: 0.9em;
     line-height: 1.9em;
@@ -994,6 +1005,7 @@ h2.second-head {
 	padding-bottom: 5%;
 	height: 330px;
 }
+
 .blog-left p{
 	color:#777;
 	font-size: 0.8755em;
